@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Include="C:\Users\admin\Desktop\Telerik Academi\C# Fundamentals\Data Types and Variables\DataTypesAndVariables.cs" Link="DataTypesAndVariables.cs" />
+  </ItemGroup>
+
+</Project>
